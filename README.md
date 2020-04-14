@@ -1,2 +1,2 @@
-# note
-Note for public info
+# Initial page
+
