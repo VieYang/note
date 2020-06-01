@@ -2,9 +2,10 @@
 
 * [Note](README.md)
 
-## Blockchain
+## BlockChain
 
 * [Blockchain](blockchain/blockchain.md)
+* [RPC](blockchain/rpc.md)
 
 ## Internet
 
