@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Note](README.md)
+* [Unix](unix.md)
+* [bash](bash.md)
 
 ## BlockChain
 
