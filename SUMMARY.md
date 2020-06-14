@@ -11,6 +11,7 @@
 
 ## Internet
 
-* [Internet](internet/internet.md)
+* [Internet](internet/internet/README.md)
+  * [Git patch](internet/internet/git-patch.md)
 * [Hacker News](internet/hacker-news.md)
 
